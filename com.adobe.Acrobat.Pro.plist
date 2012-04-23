@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>10</key>
+	<dict>
+		<key>AVGeneral</key>
+		<dict>
+			<key>CheckForUpdatesAtStartup</key>
+			<array>
+				<integer>0</integer>
+				<false/>
+			</array>
+		</dict>
+		<key>ServicesPro</key>
+		<dict>
+			<key>UpdateData</key>
+			<array>
+				<integer>8</integer>
+				<dict>
+					<key>Next</key>
+					<array>
+						<integer>5</integer>
+						<string>2020-01-31T01:00:00Z</string>
+					</array>
+					<key>Rate</key>
+					<array>
+						<integer>5</integer>
+						<string>6</string>
+					</array>
+					<key>URI</key>
+					<array>
+						<integer>5</integer>
+						<string>https://service-updates.adobe.com/acrobat/release/manifest.xml</string>
+					</array>
+					<key>Wait</key>
+					<array>
+						<integer>5</integer>
+						<string>10</string>
+					</array>
+				</dict>
+			</array>
+		</dict>
+		<key>Updater</key>
+		<dict>
+			<key>FirstTimeAppHasRun</key>
+			<array>
+				<integer>0</integer>
+				<false/>
+			</array>
+		</dict>
+	</dict>
+</dict>
+</plist>
